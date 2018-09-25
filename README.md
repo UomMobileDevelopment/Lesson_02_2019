@@ -1,6 +1,18 @@
 # Lesson_01_2018-19
 
   ## Hello world, Layouts  etc
+  
+  
+  ## How to download and install Android Studio and Android SDK 
+  
+  https://www.youtube.com/watch?v=7vvMltQtfxY
+  
+  
+  You can also download the lesson 01 presentation (pptx) from the resources above 
+  
+    
+  
+  Lesson Topics:
 
  - Android Technology
  - How android works
