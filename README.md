@@ -10,10 +10,7 @@
   Lesson Topics:
 
  - Android Technology
- - How android works
- - Android Studio
- - Android SDK
- - Hello World
+ - Git pull and gitignore
  - GUI Designer
  - Constraint Layout
  - Add images from file system
