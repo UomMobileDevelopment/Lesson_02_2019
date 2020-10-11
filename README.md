@@ -1,6 +1,4 @@
-# Lesson_01_2018-19
-
-  ## Hello world, Layouts  etc
+# Lesson_02
   
   
   ## How to download and install Android Studio and Android SDK 
