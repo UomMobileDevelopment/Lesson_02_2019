@@ -7,10 +7,7 @@
   
   https://www.youtube.com/watch?v=7vvMltQtfxY
   
-  
-  You can also download the lesson 01 presentation (pptx) from the resources above 
-  
-    
+      
   
   Lesson Topics:
 
